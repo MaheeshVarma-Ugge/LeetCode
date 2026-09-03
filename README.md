@@ -18,6 +18,7 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/0620-not-boring-movies) |
 | [1683-invalid-tweets](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
