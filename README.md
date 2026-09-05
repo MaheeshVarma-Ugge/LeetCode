@@ -31,4 +31,5 @@
 | [1683-invalid-tweets](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/1729-find-followers-count) |
+| [1965-employees-with-missing-information](https://github.com/MaheeshVarma-Ugge/LeetCode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
